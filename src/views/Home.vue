@@ -20,6 +20,7 @@ export default defineComponent({
       this.$router.push("/firstpage");
       // OR
       // this.$router.push({ path: `/firstpage`})
+
     },
   },
   components: { TestButton },
