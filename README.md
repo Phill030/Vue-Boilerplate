@@ -4,9 +4,6 @@
 
 ## This boilerplate was made to simplify working with Vue
 
-#### Does `alt` work?
-✔ Yes
-
 ### Packages:
 <h5>
   - Vite <br></br>
@@ -15,6 +12,9 @@
   - TypeScript <br></br>
   - altv/types-webviews
 </h5>
+
+#### Does `alt` work?
+✔ Yes
 
 ### How to change the page?
 To change the page you can either use
