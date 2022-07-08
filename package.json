@@ -1,0 +1,28 @@
+{
+  "name": "vite-vue-router",
+  "version": "1.0.0",
+  "description": "Boilerplate for Vite + Vue (TypeScript)+ Vue-router",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/Phill030/Vue-Boilerplate",
+    "type": "GitHub"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "author": "Phill030",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.3",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "typescript": "^4.7.4",
+    "vite": "^2.9.14",
+    "vue-router": "^4.1.1",
+    "vue-tsc": "^0.38.3"
+  }
+}

@@ -1,0 +1,6 @@
+root {
+    --maincolor: #FFFFFF;
+    --someNumber: 24rem;
+}
+
+/* You can use those variables everywhere with var(--NAME) */
