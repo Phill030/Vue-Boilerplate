@@ -1,8 +1,8 @@
 <h1 align="center">
-  <strong>Vue-Boilerplate</strong>
+  <strong>alt:V Vue-Boilerplate</strong>
 </h1>
 
-## This boilerplate was made to simplify working with Vue
+## This boilerplate was made to simplify working with Vue and alt:V
 
 ### Packages:
 <h5>
